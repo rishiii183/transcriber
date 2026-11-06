@@ -1,0 +1,30 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Media and model data
+data/
+output/
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.webm
+*.part
+*.ytdl
+
+# Logs and temporary files
+*.log
+.cache/
+
+# OS metadata
+.DS_Store
+Thumbs.db
